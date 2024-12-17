@@ -97,4 +97,4 @@ Rich Dad Poor Dad is more than just a book about money; it’s a guide to adopti
 
 The book’s lessons remain relevant for anyone seeking financial freedom, whether through entrepreneurship, investments, or personal growth. Ultimately, Rich Dad Poor Dad inspires readers to think differently about money and take control of their financial future.
 
-'Arranged By Wasif'
+# Arranged By Wasif
